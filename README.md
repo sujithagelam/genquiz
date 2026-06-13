@@ -34,8 +34,6 @@ Add screenshots here after uploading them to GitHub.
 
 ## ✨ Features
 
-✅ Multiple-choice quiz questions
-
 ✅ Countdown timer for each question
 
 ✅ Automatic navigation when timer ends
