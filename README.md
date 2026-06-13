@@ -17,18 +17,17 @@ https://your-app-link.netlify.app
 ## 📸 Preview
 
 Add screenshots here after uploading them to GitHub.
+## 🏠 Home Screen
 
-### 🏠 Home Screen
+![Home Screen](./screenshots/home.png.png)
 
-![Home Screen](./screenshots/home.png)
+## 🌙 Dark Theme
 
-### 🌙 Dark Theme
+![Dark Theme](./screenshots/dark.png.png)
 
-![Dark Theme](./screenshots/dark-theme.png)
+## 🏆 Result Screen
 
-### 🏆 Result Screen
-
-![Result Screen](./screenshots/result.png)
+![Result Screen](./screenshots/result.png.png)
 
 ---
 
