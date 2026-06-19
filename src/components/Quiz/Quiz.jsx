@@ -95,7 +95,7 @@ const Quiz = () => {
           <h2>
             {index + 1}.{question.question}
           </h2>
-          <ul>
+          <ul className="ul-list">
             <li
               ref={option1}
               onClick={(e) => {
